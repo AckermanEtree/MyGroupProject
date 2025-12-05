@@ -4,6 +4,11 @@ int add(int a, int b) {
     return a + b;
 }
 
+// 队友写的减法函数
+int minus(int a, int b) {
+    return a - b;
+}
+
 int main() {
     printf("Simple Calculator Project\n");
     printf("Version: 1.0\n");
